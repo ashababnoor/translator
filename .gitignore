@@ -1,3 +1,11 @@
-data
-venv
-__pychache__
+# data directory
+data/
+
+# virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+
+# OS specific files
+.DS_Store
